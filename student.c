@@ -2,4 +2,5 @@
 int main()
 {
 printf("life is all fucked up");
+  printf("life ");
 }
